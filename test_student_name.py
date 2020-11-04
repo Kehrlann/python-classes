@@ -22,7 +22,7 @@ class TestStudentName(BaseTestCase):
 
     def error_message(self, args, expected, result):
         print(
-            f"ERROR : First name: \"{args[0]}\", last name: \"{args[1]}\" -> should be {expected}, but was {result}")
+            f"ERROR : First name: \"{args[0]}\", last name: \"{args[1]}\" -> should be \"{expected}\", but was \"{result}\"")
 
 
 if __name__ == '__main__':
