@@ -1,14 +1,9 @@
-import math
+
 import unittest
 from student import Class
 
 
 class TestLoadGradesFromFile(unittest.TestCase):
-    # classe = Class("P1920")
-    # classe.load_students_from_file('class.csv')
-    # classe.load_grades_from_file('grades.csv')
-    # avgs = classe.compute_averages()
-    # assert all(math.isclose(avgs[top], true_averages[top]) for top in true_averages)
 
     def test_load_grades(self):
         p20 = Class("p1920")
