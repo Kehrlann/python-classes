@@ -4,7 +4,7 @@ from student import Class
 
 class TestLoadFromFile(unittest.TestCase):
 
-    def test_nominal(self):
+    def test_load_from_file(self):
         p20 = Class("p1920")
         p20.load_students_from_file('class.csv')
 

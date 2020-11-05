@@ -4,7 +4,7 @@ from student import Student, Class
 
 class TestClassLenRepr(unittest.TestCase):
 
-    def test_len(self):
+    def test_class_len(self):
         zero = Class("zero")
         one = Class("one")
         many = Class("many")
@@ -17,7 +17,7 @@ class TestClassLenRepr(unittest.TestCase):
         self.assertEqual(len(one), 1)
         self.assertGreater(len(many), 1)
 
-    def test_repr(self):
+    def test_class_repr(self):
         zero = Class("zero")
         one = Class("one")
         many = Class("many")
