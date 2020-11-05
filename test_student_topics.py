@@ -1,8 +1,6 @@
 import unittest
 from student import Student
 
-achille = Student("Achille", "Talon")
-
 
 def topics_as_set(student):
     return set(student.followed_topics())
