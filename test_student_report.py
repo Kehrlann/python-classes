@@ -1,8 +1,5 @@
 import unittest
 from student import Student
-from testing_utils import BaseTestCase
-
-achille = Student("Achille", "Talon")
 
 
 class TestReport(unittest.TestCase):
