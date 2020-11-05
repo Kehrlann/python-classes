@@ -5,10 +5,6 @@ from testing_utils import BaseTestCase
 achille = Student("Achille", "Talon")
 
 
-def report(student):
-    return student.report()
-
-
 class TestReport(unittest.TestCase):
 
     def test_report_achille(self):
