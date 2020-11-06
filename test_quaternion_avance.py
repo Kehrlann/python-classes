@@ -1,6 +1,5 @@
 import unittest
 from quaternion import Quaternion
-from random import randint
 
 
 class TestQuaternionAvance(unittest.TestCase):
