@@ -1,7 +1,7 @@
 Francis,Galton,Physics,17.0,15.0,8.0,8.0
 Enrico,Fermi,English,17.0,14.0
 Heinrich,Hertz,Mathematics,17.0,12.0,13.0,11.0,18.0
-Henri,Poincaré,Mathematics,11.0,11.0,13.0,11.0,10.0
+Henri,Poincare,Mathematics,11.0,11.0,13.0,11.0,10.0
 Claude,Levi-Strauss,Physics,15.0,12.0,14.0,12.0
 Emmy,Noether,Physics,10.0,10.0,10.0,12.0
 Thomas,Edison,Chemistry,7.0,7.0,15.0
@@ -21,11 +21,11 @@ Wilbur,Wright,Sailing,10.0
 Evangelista,Torricelli,Physics,8.0,11.0,8.0,15.0
 Ludwig,Boltzmann,Chemistry,13.0,7.0,11.0
 Robert,Bunsen,Sailing,15.0
-Henri,Poincaré,Horse-riding,12.0,10.0
+Henri,Poincare,Horse-riding,12.0,10.0
 Albert,Einstein,Chemistry,11.0,12.0,11.0
 Werner,Heisenberg,Chemistry,12.0,13.0,8.0
-Friedrich,Wöhler,Chemistry,19.0,18.0,8.0
-Wilhelm,Röntgen,Physics,13.0,17.0,13.0,13.0
+Friedrich,Wohler,Chemistry,19.0,18.0,8.0
+Wilhelm,Rontgen,Physics,13.0,17.0,13.0,13.0
 Bernhard,Riemann,English,9.0,12.0
 Stephen,Hawking,Chemistry,13.0,7.0,14.0
 Claude,Levi-Strauss,English,15.0,18.0
@@ -41,7 +41,7 @@ Edward,Teller,Chemistry,11.0,8.0,10.0
 Lise,Meitner,French,11.0,10.0
 Joseph-Louis,Lagrange,English,18.0,13.0
 Stephen,Hawking,English,8.0,12.0
-Andre Marie,Ampère,Physics,14.0,12.0,16.0,12.0
+Andre Marie,Ampere,Physics,14.0,12.0,16.0,12.0
 Louis,de Broglie,Horse-riding,13.0,10.0
 Alessandro,Volta,Physics,12.0,9.0,14.0,12.0
 Max,Born,Physics,15.0,15.0,15.0,10.0
@@ -53,11 +53,11 @@ Max,Planck,Chemistry,4.0,15.0,13.0
 Joseph-Louis,Lagrange,French,15.0,16.0
 Lawrence,Bragg,Chemistry,17.0,10.0,14.0
 Lawrence,Bragg,English,11.0,8.0
-Erwin,Schrödinger,Physics,12.0,11.0,10.0,14.0
+Erwin,Schrodinger,Physics,12.0,11.0,10.0,14.0
 Edwin,Hubble,French,13.0,13.0
 Nicolaus,Copernicus,Chemistry,11.0,13.0,9.0
 Leonhard,Euler,Mathematics,10.0,15.0,12.0,17.0,15.0
-René,Descartes,English,14.0,17.0
+Rene,Descartes,English,14.0,17.0
 Jacques,Cousteau,Mathematics,16.0,9.0,17.0,9.0,15.0
 Emmy,Noether,Chemistry,11.0,7.0,15.0
 Glenn,Seaborg,English,11.0,7.0
@@ -108,9 +108,9 @@ Nikola,Tesla,Physics,15.0,15.0,16.0,12.0
 Ernst,Mach,Physics,12.0,8.0,12.0,12.0
 Joseph-Louis,Lagrange,Chemistry,15.0,13.0,13.0
 Thomas,Newcomen,English,14.0,14.0
-Mattieu,Mazière,Apprentissage de la Programmation,20.0
+Mattieu,Maziere,Apprentissage de la Programmation,20.0
 Antoine,Lavoisier,Horse-riding,10.0,11.0
-Wilhelm,Röntgen,Chemistry,10.0,8.0,12.0
+Wilhelm,Rontgen,Chemistry,10.0,8.0,12.0
 Dmitri,Mendeleev,Mathematics,12.0,10.0,10.0,11.0,9.0
 Ludwig,Boltzmann,Physics,15.0,9.0,16.0,11.0
 Glenn,Seaborg,Chemistry,14.0,12.0,13.0
@@ -139,7 +139,7 @@ Pierre,de Fermat,Chemistry,3.0,11.0,13.0
 John,Napier,Chemistry,9.0,15.0,11.0
 Glenn,Seaborg,Mathematics,12.0,14.0,12.0,12.0,9.0
 Richard,Feynman,Physics,12.0,10.0,9.0,17.0
-René,Descartes,Physics,5.0,13.0,19.0,13.0
+Rene,Descartes,Physics,5.0,13.0,19.0,13.0
 Carl,Bosch,Chemistry,12.0,10.0,11.0
 Charles,Darwin,French,11.0,10.0
 Max,Born,Mathematics,16.0,15.0,11.0,12.0,12.0
@@ -156,15 +156,15 @@ Christiaan,Huygens,Physics,13.0,13.0,10.0,12.0
 Gustav,Kirchoff,Scubadiving,12.0,9.0
 Gustav,Kirchoff,French,11.0,9.0
 Galileo,Galilei,Mathematics,14.0,14.0,13.0,9.0,10.0
-Andre Marie,Ampère,Mathematics,11.0,15.0,13.0,9.0,16.0
+Andre Marie,Ampere,Mathematics,11.0,15.0,13.0,9.0,16.0
 Blaise,Pascal,Chemistry,11.0,12.0,15.0
-René,Descartes,Chemistry,12.0,14.0,11.0
+Rene,Descartes,Chemistry,12.0,14.0,11.0
 Niels,Bohr,Physics,14.0,13.0,9.0,15.0
 Albert,Einstein,French,13.0,10.0
 Claude,Levi-Strauss,Mathematics,14.0,11.0,13.0,11.0,9.0
 Pierre-Simon,Laplace,Mathematics,13.0,11.0,11.0,15.0,16.0
 Leonhard,Euler,English,13.0,15.0
-Friedrich,Wöhler,English,17.0,9.0
+Friedrich,Wohler,English,17.0,9.0
 Carl,Bosch,Mathematics,15.0,17.0,13.0,10.0,14.0
 James Prescott,Joule,English,8.0,12.0
 Henri,Becquerel,English,6.0,19.0
@@ -178,7 +178,7 @@ Marie,Curie,English,12.0,11.0
 Nicolaus,Copernicus,Mathematics,14.0,9.0,12.0,10.0,9.0
 Christiaan,Huygens,Mathematics,9.0,11.0,16.0,9.0,7.0
 Pierre,Curie,Scubadiving,9.0,10.0
-Friedrich,Wöhler,Mathematics,11.0,12.0,9.0,10.0,12.0
+Friedrich,Wohler,Mathematics,11.0,12.0,9.0,10.0,12.0
 Blaise,Pascal,Physics,14.0,12.0,19.0,9.0
 Louis,de Broglie,Mathematics,17.0,7.0,11.0,16.0,16.0
 Wolfgang Ernst,Pauli,Chemistry,15.0,13.0,10.0
@@ -196,15 +196,15 @@ Arthur,Compton,Chemistry,13.0,10.0,8.0
 Edwin,Hubble,Mathematics,17.0,14.0,12.0,16.0,13.0
 Johannes,Kepler,Chemistry,18.0,15.0,11.0
 Sophie,Germain,English,15.0,9.0
-Erwin,Schrödinger,French,12.0,13.0
-Friedrich,Wöhler,Physics,11.0,13.0,16.0,7.0
+Erwin,Schrodinger,French,12.0,13.0
+Friedrich,Wohler,Physics,11.0,13.0,16.0,7.0
 Galileo,Galilei,Physics,10.0,13.0,12.0,13.0
 Tryphon,Tournesol,Scubadiving,8.0,12.0
 James Prescott,Joule,Physics,17.0,16.0,11.0,15.0
 Carl Friedrich,Gauss,English,17.0,14.0
 John,von Neumann,French,13.0,8.0
 Albert Abraham,Michelson,Physics,11.0,11.0,7.0,12.0
-Andre Marie,Ampère,Chemistry,12.0,17.0,11.0
+Andre Marie,Ampere,Chemistry,12.0,17.0,11.0
 Jean-Baptiste,Lamarck,Physics,12.0,13.0,15.0,12.0
 Pierre,Curie,French,12.0,8.0
 Michael,Faraday,French,13.0,16.0
@@ -253,9 +253,9 @@ Max,Planck,English,14.0,14.0
 Max,Planck,Physics,18.0,11.0,9.0,10.0
 Edward,Teller,French,14.0,13.0
 Irene,Joliot-Curie,Scubadiving,11.0,13.0
-René,Descartes,Mathematics,9.0,13.0,9.0,14.0,5.0
+Rene,Descartes,Mathematics,9.0,13.0,9.0,14.0,5.0
 Lise,Meitner,Physics,16.0,17.0,12.0,15.0
-Andre Marie,Ampère,English,8.0,19.0
+Andre Marie,Ampere,English,8.0,19.0
 Hermann,von Helmholtz,Chemistry,13.0,14.0,14.0
 Daniel,Bernoulli,Scubadiving,15.0,16.0
 Barbara,McClintock,Horse-riding,16.0,14.0
@@ -289,7 +289,7 @@ Richard,Feynman,Mathematics,13.0,11.0,12.0,7.0,9.0
 Robert,Hooke,Mathematics,13.0,16.0,7.0,9.0,13.0
 Gottfried,Leibniz,Physics,12.0,11.0,10.0,17.0
 Michael,Faraday,Physics,16.0,9.0,12.0,10.0
-Erwin,Schrödinger,Chemistry,14.0,13.0,12.0
+Erwin,Schrodinger,Chemistry,14.0,13.0,12.0
 Samuel,Morse,Mathematics,9.0,12.0,13.0,9.0,13.0
 Samuel,Morse,French,11.0,3.0
 Peter,Debye,Chemistry,9.0,16.0,13.0
@@ -318,7 +318,7 @@ Daniel,Bernoulli,Physics,14.0,11.0,19.0,11.0
 Enrico,Fermi,Mathematics,14.0,13.0,11.0,13.0,14.0
 Sophie,Germain,Chemistry,14.0,9.0,12.0
 Tryphon,Tournesol,Horse-riding,11.0,14.0
-Wilhelm,Röntgen,English,12.0,8.0
+Wilhelm,Rontgen,English,12.0,8.0
 Robert,Oppenheimer,French,5.0,10.0
 Barbara,McClintock,Physics,14.0,17.0,17.0,15.0
 Orville,Wright,Chemistry,13.0,11.0,9.0
@@ -326,11 +326,11 @@ Hendrik Antoon,Lorentz,Horse-riding,9.0,13.0
 Antonie,van Leeuwenhoek,English,7.0,10.0
 Ernst Werner,von Siemens,Chemistry,10.0,9.0,13.0
 Jean-Baptiste,Lamarck,Chemistry,14.0,10.0,8.0
-Wilhelm,Röntgen,Mathematics,12.0,15.0,13.0,9.0,14.0
+Wilhelm,Rontgen,Mathematics,12.0,15.0,13.0,9.0,14.0
 Samuel,Morse,Chemistry,12.0,17.0,11.0
 Blaise,Pascal,Horse-riding,12.0,14.0
 Claude,Levi-Strauss,Chemistry,11.0,16.0,10.0
-Erwin,Schrödinger,Mathematics,8.0,12.0,12.0,9.0,11.0
+Erwin,Schrodinger,Mathematics,8.0,12.0,12.0,9.0,11.0
 Isaac,Newton,Mathematics,10.0,8.0,15.0,12.0,13.0
 Joseph,Henry,Chemistry,16.0,17.0,15.0
 Gustav,Kirchoff,Physics,12.0,8.0,14.0,7.0
@@ -345,15 +345,15 @@ Pierre,Curie,English,11.0,13.0
 Peter,Debye,French,11.0,11.0
 Irene,Joliot-Curie,English,12.0,13.0
 Alessandro,Volta,Mathematics,14.0,12.0,15.0,10.0,8.0
-Henri,Poincaré,Chemistry,10.0,16.0,10.0
+Henri,Poincare,Chemistry,10.0,16.0,10.0
 Edmund,Halley,English,12.0,11.0
 Henri,Becquerel,Chemistry,13.0,9.0,15.0
 Albert Abraham,Michelson,Chemistry,9.0,15.0,15.0
 Dmitri,Mendeleev,French,13.0,14.0
 Samuel,Morse,Physics,17.0,11.0,11.0,15.0
-Henri,Poincaré,English,10.0,20.0
+Henri,Poincare,English,10.0,20.0
 Louis,de Broglie,Physics,12.0,15.0,16.0,14.0
-Henri,Poincaré,Physics,11.0,13.0,9.0,8.0
+Henri,Poincare,Physics,11.0,13.0,9.0,8.0
 Carl Friedrich,Gauss,Physics,13.0,10.0,14.0,12.0
 Christiaan,Huygens,Chemistry,14.0,9.0,19.0
 Johannes,Kepler,Mathematics,13.0,11.0,11.0,11.0,11.0
